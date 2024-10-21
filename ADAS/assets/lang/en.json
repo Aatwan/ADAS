@@ -1,0 +1,25 @@
+{
+
+    "control": "Control Options",
+    "obstacle": "Obstacle Avoidance",
+    "blindspot": "Blind Spot Detection",
+    "manual": "Manual Control",
+    "options": "Options",
+    "device": "Device",
+    "unknown": " Unknown",
+    "speed": "Speed",
+    "cm": "0 cm/s",
+    "bluetooth": "Bluetooth",
+    "connected": " Connected",
+    "notconnected": " Not Connected",
+    "status": "Status",
+    "settings": "Settings",
+    "dark": "Dark Theme",
+    "about": "About",
+    "visit": "Visit Our Website",
+    "select": "Select Bluetooth Device",
+    "refresh": "Refresh",
+    "rssi": "RSSI",
+    "range": "Range"
+  }
+  
